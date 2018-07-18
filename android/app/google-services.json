@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "348477350906",
+    "firebase_url": "https://authtest-daa6a.firebaseio.com",
+    "project_id": "authtest-daa6a",
+    "storage_bucket": "authtest-daa6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348477350906:android:f535c15020a435ba",
+        "android_client_info": {
+          "package_name": "com.example.aviralgarg0996.authtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348477350906-b8qkft0j8160jmipjhe1rsef8f59u323.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aviralgarg0996.authtest",
+            "certificate_hash": "29e0fcb664308d8a32c1232c18bccaa02be34250"
+          }
+        },
+        {
+          "client_id": "348477350906-htqm8410d6mq3jj6tto7vgb23lu25op1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwmx5_XS91dec7L-tors25FrShsjZt6uA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348477350906-htqm8410d6mq3jj6tto7vgb23lu25op1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348477350906:android:385bea189eb97b2f",
+        "android_client_info": {
+          "package_name": "com.example.aviralgarg0996.reminderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348477350906-aluiu5g6dl97hmhjef8ijckuvb2t01h6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aviralgarg0996.reminderapp",
+            "certificate_hash": "29e0fcb664308d8a32c1232c18bccaa02be34250"
+          }
+        },
+        {
+          "client_id": "348477350906-htqm8410d6mq3jj6tto7vgb23lu25op1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwmx5_XS91dec7L-tors25FrShsjZt6uA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348477350906-htqm8410d6mq3jj6tto7vgb23lu25op1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348477350906:android:6d112f634122b0fc",
+        "android_client_info": {
+          "package_name": "com.firebaseauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348477350906-htqm8410d6mq3jj6tto7vgb23lu25op1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwmx5_XS91dec7L-tors25FrShsjZt6uA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
